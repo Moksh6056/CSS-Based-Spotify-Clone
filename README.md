@@ -13,4 +13,4 @@ Features:
 
 Built With
   HTML5
-  CSS3 (Flexbox / Grid)
+  CSS (Flexbox / Grid)
